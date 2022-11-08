@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teleuzi" alt="teleuzi" /></a> </p>
 
-- 🔭 I’m currently working on **custom youtube client**
+- 🔭 I’m currently working on **platform for online school**
 
 - 🌱 I’m currently learning **Angular**
 
