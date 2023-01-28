@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yauheni</h1>
-<h3 align="center">A passionate frontend developer from Belarus</h3>
+<h3 align="center">Senior software engineer from Belarus</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teleuzi" alt="teleuzi" /></a> </p>
 
